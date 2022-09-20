@@ -1,0 +1,22 @@
+div.container-fluid
+{   margin: 0;
+    width:100%;
+    background-color: black;
+    color:white;
+    font-size:30px;
+    font-family:sans-serif;
+}
+.selection{margin:1%;border:1px solid lightgray;border-radius:1%;}
+.button{margin-left:5%;margin-top:1%;margin-bottom:1%;}
+button,.s1{background-color: dimgrey;color: white;width:10%;}
+.s1{float: right;margin-right:7%;padding:0.4%;}
+label{margin-left:50%;}
+.detail{background-color:gainsboro;margin: 0% 5% 5% 5%;border:1px solid black;}
+.d1{margin:1% 2% 0% 3%; background-color:darkgrey;color:black;font-weight:500; padding:1%;}
+.d2{margin:0% 2% 2% 3%;background-color:darksalmon;color:black;padding:1%;font-weight:500;}
+.cont1{margin:0% 5% 2% 3%;font-weight: 100;}
+.cont2{margin:0% 5% 2% 10%;font-weight: 100;}
+
+
+
+
